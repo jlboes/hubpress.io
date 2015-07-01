@@ -8,8 +8,10 @@ It's probably because jar has not been generated. +
 [%hardbreaks]
 
 
-
-*ant clean && ant all*
+[source,bash]
+-----------------
+ant clean && ant all
+-----------------
  
  
 
