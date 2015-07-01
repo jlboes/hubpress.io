@@ -1,4 +1,4 @@
-= [Hybris] models.jar not found =
+= [Hybris] models.jar not found
 
 
 
