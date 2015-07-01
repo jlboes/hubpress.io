@@ -1,4 +1,4 @@
-= [Hybirs] Define local Config for specific environment
+= [Hybris] Define local Config for specific environment
 
 :hp-tags: Hybris
 
