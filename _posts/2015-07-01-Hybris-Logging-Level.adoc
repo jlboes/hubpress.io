@@ -1,0 +1,15 @@
+= [Hybris] Logging Level
+
+:hp-tags: Hybris
+
+
+If you want to debug some specific classes you can indicate the log level in your config file
+
+ config/local.properties
+
+ log4j.logger.your.package=debug
+
+
+*Example*
+
+ log4j.logger.de.hybris.platform.electronicsstore.core.jobs.electronicStoreProductsJob=debug
