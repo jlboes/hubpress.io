@@ -1,0 +1,10 @@
+= [Hybris] models.jar not found =
+
+:hp-tags: Hybris
+
+
+It's probably because jar has not been generated.
+
+=> **ant clean && ant all**
+
+If you are using HSQL, you have to stop the server first.
