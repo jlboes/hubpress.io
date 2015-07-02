@@ -13,3 +13,7 @@ C'es-à-dire que la suite est prévu pour
 * Le B2C
 * Le click & collect
 * La connexion avec les magasins physiques
+
+Chaque canal étant indépendant et pouvant avoir son propre catalogue.
+
+
