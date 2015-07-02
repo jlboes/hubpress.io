@@ -1,5 +1,9 @@
 = Hybris E-commerce suite
 :hp-tags: Hybris
 
+* Images:
++
+image:http://autoentrepreneurinfo.com/images/logo-hybris.jpg[alt="Hybris Logo"]
+
 L'E-commerce Suite est une solution e-commerce propriétaire développé par la société Hybris qui fait partie du group SAP.
 
