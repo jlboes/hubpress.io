@@ -6,4 +6,10 @@ image:http://autoentrepreneurinfo.com/images/logo-hybris.jpg[alt="Hybris Logo"]
 
 L'E-commerce Suite est une solution e-commerce propriétaire développé par la société Hybris qui fait partie du group SAP.
 
-La solution Hybris est clairement destiné aux entreprises de par son prix élevé et par la complexité des fonctionnalités proposées.
+La solution Hybris est clairement destiné aux entreprises de par son prix élevé et par la complexité des fonctionnalités proposées. Hybris à pour objectif de proposer une solution omnicanal.
+C'es-à-dire que la suite est prévu pour
+
+* Le B2B
+* Le B2C
+* Le click & collect
+* La connexion avec les magasins physiques
