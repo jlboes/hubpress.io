@@ -16,4 +16,7 @@ C'es-à-dire que la suite est prévu pour
 
 Chaque canal étant indépendant et pouvant avoir son propre catalogue.
 
+== Gestionnaire de catalogue
+
+Toute la solution Hybris est articulé autour du catlogue
 
