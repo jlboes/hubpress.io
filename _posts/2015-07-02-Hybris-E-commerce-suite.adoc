@@ -1,4 +1,5 @@
 = Hybris E-commerce suite
 :hp-tags: Hybris
 
-Hybris est une solution ecommerce propriétaire développé par 
+L'E-commerce Suite est une solution e-commerce propriétaire développé par la société Hybris qui fait partie du group SAP.
+
