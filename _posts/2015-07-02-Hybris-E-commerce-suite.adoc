@@ -9,6 +9,11 @@ L'E-commerce Suite est une solution e-commerce propriétaire développé par la 
 La solution Hybris est clairement destiné aux entreprises de par son prix élevé et par la complexité des fonctionnalités proposées. Hybris à pour objectif de proposer une solution omnicanal.
 C'es-à-dire que la suite est prévu pour
 
+* le web
+* les magasins
+* les catalogues papiers
+* les mobiles
+
 * Le B2B
 * Le B2C
 * Le click & collect
