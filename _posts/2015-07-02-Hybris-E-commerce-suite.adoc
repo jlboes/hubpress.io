@@ -26,7 +26,7 @@ Hybris se concentre autour de fonctionnalité central pour le commerce, entres a
 * La connexion avec les magasins physiques
 
 
-== Gestionnaire de catalogue
+=== B2B et B2C
 
-Toute la solution Hybris est articulé autour du catlogue
+Le B2B (business to business) est destiné au commerce entre professionnels. Et le B2C (business to customer) est pour le commerce ouvert au grand public. Pour c'est deux cibles Hybris propose des accelerateurs permettant d'initialiser rapidement des projets e-commerce avec les sprécificités de chacun.
 
