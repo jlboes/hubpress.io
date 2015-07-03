@@ -14,12 +14,17 @@ C'es-à-dire que la suite est prévu pour
 * les catalogues papiers
 * les mobiles
 
+Chaque canal étant indépendant et pouvant avoir son propre catalogue.
+
+== Les applications principales
+
+Hybris se concentre autour de fonctionnalité central pour le commerce, entres autres, les plus importantes sont :
+
 * Le B2B
 * Le B2C
-* Le click & collect
+* Le PIM (Product Information management)
 * La connexion avec les magasins physiques
 
-Chaque canal étant indépendant et pouvant avoir son propre catalogue.
 
 == Gestionnaire de catalogue
 
