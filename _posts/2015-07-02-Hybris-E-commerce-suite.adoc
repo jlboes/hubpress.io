@@ -23,10 +23,38 @@ Hybris se concentre autour de fonctionnalité central pour le commerce, entres a
 * Le B2B
 * Le B2C
 * Le PIM (Product Information management)
-* La connexion avec les magasins physiques
+* Les backoffices
 
 
 === B2B et B2C
 
 Le B2B (business to business) est destiné au commerce entre professionnels. Et le B2C (business to customer) est pour le commerce ouvert au grand public. Pour c'est deux cibles Hybris propose des accelerateurs permettant d'initialiser rapidement des projets e-commerce avec les sprécificités de chacun.
+
+
+=== Le PIM (Product information management)
+
+Le PIM permet la centralisation des informations des produits. Ce qui permet d'avoir des informations cohérentes sur les différents canaux à partir d'un seul endroit.
+
+
+=== Les backoffices
+
+Hybris fournis différent backoffices, pour différent utilisateurs.
+
+
+. Le HMC (Hybris Management Console)
+
+Le HMC est la première génération de backoffice. Il permet de gérer à peu près tout les composant de la solution.
+C'est le backoffice le plus complet et le plus techique.
+Il est donc destiné au utilisateur techniques et/ou à l'administrateur. 
+Le HMC est au plus proche de la base de données et permet en autres, de gérer les produits, les commandes, les clients et leurs informations etc... 
+
+. Les cockpits
+
+Les cockpits sont la deuxième génération de backoffice et sont destinés à des besoins et des utilisateurs particuliers.
+
+Il y a par exemple le "Product Cockpit" destiné aux responsables produits. Ce cockpit permet de mettre à jour et de gérer les informations des produits et des différents catalogues.
+
+. Le backoffice et les NG cockpits
+
+Le backoffice représente la troisième génération de backoffice. Il vise à remplacer le HMC ainsi que les cockpits néamoins toutes les fonctionnalités des ancien backoffices ne sont pas encore implémentés.
 
