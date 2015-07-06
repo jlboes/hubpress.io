@@ -6,7 +6,8 @@ image:http://autoentrepreneurinfo.com/images/logo-hybris.jpg[alt="Hybris Logo"]
 
 The E-commerce Suite is a propriatary solution developp by Hybris an SAP Company.
 
-La solution Hybris est clairement destiné aux entreprises de par son prix élevé et par la complexité des fonctionnalités proposées. Hybris à pour objectif de proposer une solution omnicanal.
+The Hybris solution is intented for medium or large company because of it's price and the complexity of the offered features.
+Hybris à pour objectif de proposer une solution omnicanal.
 C'es-à-dire que la suite est prévu pour
 
 * le web
