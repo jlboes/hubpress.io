@@ -48,6 +48,9 @@ C'est le backoffice le plus complet et le plus techique.
 Il est donc destiné au utilisateur techniques et/ou à l'administrateur. 
 Le HMC est au plus proche de la base de données et permet en autres, de gérer les produits, les commandes, les clients et leurs informations etc... 
 
+image::hmc.png
+
+
 . Les cockpits
 
 Les cockpits sont la deuxième génération de backoffice et sont destinés à des besoins et des utilisateurs particuliers.
