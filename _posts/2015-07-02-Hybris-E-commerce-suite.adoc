@@ -40,7 +40,7 @@ Le PIM permet la centralisation des informations des produits. Ce qui permet d'a
 
 Hybris fournis différent backoffices, pour différent utilisateurs.
 
-images::mcc.png[]
+image::mcc.png[]
 
 
 . Le HMC (Hybris Management Console)
@@ -59,12 +59,12 @@ Les cockpits sont la deuxième génération de backoffice et sont destinés à d
 
 Il y a par exemple le "Product Cockpit" destiné aux responsables produits. Ce cockpit permet de mettre à jour et de gérer les informations des produits et des différents catalogues.
 
-images::productcockpit.png[]
+image::productcockpit.png[]
 
 
 . Le backoffice et les NG cockpits
 
 Le backoffice représente la troisième génération de backoffice. Il vise à remplacer le HMC ainsi que les cockpits néamoins toutes les fonctionnalités des ancien backoffices ne sont pas encore implémentés.
 
-images::backoffice.png[]
+image::backoffice.png[]
 
