@@ -15,7 +15,7 @@ That means
 * Paper catalogs
 * Mobile platformes
 
-Each canal is independant and can has its own catalog
+Each canal is independant and can has its own catalog.
 
 == Main Applications
 
@@ -29,13 +29,12 @@ Hybris solution focus around business features. The most important ones are :
 
 === B2B et B2C
 
-Hybris 
-
-Le B2B (business to business) est destiné au commerce entre professionnels. Et le B2C (business to customer) est pour le commerce ouvert au grand public. Pour c'est deux cibles Hybris propose des accelerateurs permettant d'initialiser rapidement des projets e-commerce avec les sprécificités de chacun.
+The B2B (business to business) is aimed for business between profesionnals. The B2C (business to customer) is for everybody. For these two targets Hybris offers some accelerators in order to quickly initialize e-commerce projects.
 
 
-=== Le PIM (Product information management)
+=== PIM (Product information management)
 
+The PIM gathers allow the products data
 Le PIM permet la centralisation des informations des produits. Ce qui permet d'avoir des informations cohérentes sur les différents canaux à partir d'un seul endroit.
 
 
