@@ -7,27 +7,29 @@ image:http://autoentrepreneurinfo.com/images/logo-hybris.jpg[alt="Hybris Logo"]
 The E-commerce Suite is a propriatary solution developp by Hybris an SAP Company.
 
 The Hybris solution is intented for medium or large company because of it's price and the complexity of the offered features.
-Hybris à pour objectif de proposer une solution omnicanal.
-C'es-à-dire que la suite est prévu pour
+Hybris intented target is to offer a cross canal solution.
+That means 
 
-* le web
-* les magasins
-* les catalogues papiers
-* les mobiles
+* Web
+* Stores
+* Paper catalogs
+* Mobile platformes
 
-Chaque canal étant indépendant et pouvant avoir son propre catalogue.
+Each canal is independant and can has its own catalog
 
-== Les applications principales
+== Main Applications
 
-Hybris se concentre autour de fonctionnalité central pour le commerce, entres autres, les plus importantes sont :
+Hybris solution focus around business features. The most important ones are :
 
-* Le B2B
-* Le B2C
-* Le PIM (Product Information management)
-* Les backoffices
+* B2B
+* B2C
+* PIM (Product Information management)
+* Backoffices
 
 
 === B2B et B2C
+
+Hybris 
 
 Le B2B (business to business) est destiné au commerce entre professionnels. Et le B2C (business to customer) est pour le commerce ouvert au grand public. Pour c'est deux cibles Hybris propose des accelerateurs permettant d'initialiser rapidement des projets e-commerce avec les sprécificités de chacun.
 
