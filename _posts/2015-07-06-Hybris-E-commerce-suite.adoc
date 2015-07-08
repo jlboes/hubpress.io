@@ -53,11 +53,11 @@ That's why the HMC should be used by administrators or technical users.
 image::hmc.png[]
 
 
-. Les cockpits
+. The cockpits
 
-Les cockpits sont la deuxième génération de backoffice et sont destinés à des besoins et des utilisateurs particuliers.
+The cockpits are the second géneration of backoffice and are designed for specific users like product manager, cms manager etc...
+For instance, the product cockpit is for the product manger. In this cockpit you can update and manage anything about the products like the description, the catalog and so on.
 
-Il y a par exemple le "Product Cockpit" destiné aux responsables produits. Ce cockpit permet de mettre à jour et de gérer les informations des produits et des différents catalogues.
 
 image::productcockpit.png[]
 
