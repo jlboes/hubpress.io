@@ -44,7 +44,7 @@ Hybris comes with different kind of backoffices for different kind of users.
 image::mcc.png[]
 
 
-. The HMC (Hybris Management Console)
+==== I. The HMC (Hybris Management Console)
 
 The HMC is the first generation of backoffice. In th e HMC you can manage almost anything in Hybris, it is really close the database.
 It is the more powerful backoffice but also the more complex and difficult to understand and use properly.
@@ -53,7 +53,7 @@ That's why the HMC should be used by administrators or technical users.
 image::hmc.png[]
 
 
-. The cockpits
+==== II. The cockpits
 
 The cockpits are the second géneration of backoffice and are designed for specific users like product manager, cms manager etc...
 For instance, the product cockpit is for the product manger. In this cockpit you can update and manage anything about the products like the description, the catalog and so on.
@@ -62,7 +62,7 @@ For instance, the product cockpit is for the product manger. In this cockpit you
 image::productcockpit.png[]
 
 
-. The backoffice ant the NG cockpits
+==== III. The backoffice ant the NG cockpits
 
 The backoffice is the last generation of backoffice. It will be the replacement for the HMC and the cockpits but at the moment all features are not yet implemented.
 
