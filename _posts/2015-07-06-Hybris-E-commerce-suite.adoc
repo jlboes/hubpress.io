@@ -34,8 +34,7 @@ The B2B (business to business) is aimed for business between profesionnals. The 
 
 === PIM (Product information management)
 
-The PIM gathers allow the products data
-Le PIM permet la centralisation des informations des produits. Ce qui permet d'avoir des informations cohérentes sur les différents canaux à partir d'un seul endroit.
+The PIM allows to gather all the products data. With the PIM you can have consistent data accros all chanels at the same place.
 
 
 === Les backoffices
