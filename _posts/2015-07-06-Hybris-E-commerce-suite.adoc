@@ -62,8 +62,8 @@ For instance, the product cockpit is for the product manger. In this cockpit you
 image::productcockpit.png[]
 
 
-. Le backoffice et les NG cockpits
+. The backoffice ant the NG cockpits
 
-Le backoffice représente la troisième génération de backoffice. Il vise à remplacer le HMC ainsi que les cockpits néamoins toutes les fonctionnalités des ancien backoffices ne sont pas encore implémentés.
+The backoffice is the last generation of backoffice. It will be the replacement for the HMC and the cockpits but at the moment all features are not yet implemented.
 
 image::backoffice.png[]
