@@ -44,12 +44,11 @@ Hybris comes with different kind of backoffices for different kind of users.
 image::mcc.png[]
 
 
-. Le HMC (Hybris Management Console)
+. The HMC (Hybris Management Console)
 
-Le HMC est la première génération de backoffice. Il permet de gérer à peu près tout les composant de la solution.
-C'est le backoffice le plus complet et le plus techique.
-Il est donc destiné au utilisateur techniques et/ou à l'administrateur. 
-Le HMC est au plus proche de la base de données et permet en autres, de gérer les produits, les commandes, les clients et leurs informations etc... 
+The HMC is the first generation of backoffice. In th e HMC you can manage almost anything in Hybris, it is really close the database.
+It is the more powerful backoffice but also the more complex and difficult to understand and use properly.
+That's why the HMC should be used by administrators or technical users.
 
 image::hmc.png[]
 
