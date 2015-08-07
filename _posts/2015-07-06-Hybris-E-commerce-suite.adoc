@@ -53,6 +53,7 @@ That's why the HMC should be used by administrators or technical users.
 image::hmc.png[]
 
 
+
 ==== II. The cockpits
 
 The cockpits are the second géneration of backoffice and are designed for specific users like product manager, cms manager etc...
